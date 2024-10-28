@@ -1,0 +1,1 @@
+TABLE_NAME = "dynamodb-stack-sample19A77B3F-LHABBZ9NVLXR"

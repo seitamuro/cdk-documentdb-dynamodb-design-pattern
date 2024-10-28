@@ -1,14 +1,7 @@
-# Welcome to your CDK TypeScript project
+# 概要
 
-This is a blank project for CDK development with TypeScript.
+documentDB を操作するための EC2 と隣接リストパターンに従って DynamoDB を設計、検索クエリを実行するサンプル
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+# 参考
 
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
+- https://qiita.com/_kensh/items/2351096e6c3bf431ff6f
